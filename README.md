@@ -1,1 +1,1 @@
-# payment-gateway_01
+This is a payment gateway website.It is made using HTML,CSS and JAVASCRIPT.
